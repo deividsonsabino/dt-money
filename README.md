@@ -3,6 +3,7 @@
 <h4>Tecnologias abordadas:</h4>
 <ul>
   <li>React</li>
+  <li>TypeScrip</li>
   <li>Styled-Components</li>  
   <li>Context API</li>  
   <li>Mirage JS</li>  
